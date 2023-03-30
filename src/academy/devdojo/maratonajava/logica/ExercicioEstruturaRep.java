@@ -1,4 +1,4 @@
-package logica;
+package academy.devdojo.maratonajava.logica;
 
 public class ExercicioEstruturaRep {
     public static void main(String[] args) {
