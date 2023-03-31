@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.logica;
+package academy.devdojo.maratonajava.logica.If.Else;
 /* Escreva	 um	 programa	 para	 ler	 o	 ano	 de	 nascimento	 de	 uma	 pessoa	 e
 escrever	 uma	 mensagem	 que	 diga	 se	 ela	 poderá	 ou	 não	 votar	 este	 ano */
 

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.logica;
+package academy.devdojo.maratonajava.logica.If.Else;
 /*Escreva	 um	 programa	 que	 verifique	 a	 validade	 de	 uma	 senha	 fornecida
 pelo	 usuário.	 A	 senha	 válida	 é	 o	 número	 1234.	Devem	 ser	impressas	 as
 seguintes	mensagens:
