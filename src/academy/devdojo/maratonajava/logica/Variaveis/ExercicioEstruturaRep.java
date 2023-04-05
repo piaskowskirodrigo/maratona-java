@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.logica;
+package academy.devdojo.maratonajava.logica.Variaveis;
 
 public class ExercicioEstruturaRep {
     public static void main(String[] args) {

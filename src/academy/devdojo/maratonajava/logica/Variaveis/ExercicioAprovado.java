@@ -1,6 +1,7 @@
-package academy.devdojo.maratonajava.logica;
+package academy.devdojo.maratonajava.logica.Variaveis;
 
-public class ExercicioAprovado {
+public class
+ExercicioAprovado {
     public static void main(String[] args) {
         int nota1 = 10;
         int nota2 = 8;

@@ -1,9 +1,7 @@
-package academy.devdojo.maratonajava.logica;
+package academy.devdojo.maratonajava.logica.Variaveis;
 
 //Escrever um programa que receba dois números e ao final mostre a soma, subtração, multiplicação
 // e a divisão dos números lidos
-
-import org.w3c.dom.ls.LSOutput;
 
 public class ExercicioOperacoesArit {
     public static void main(String[] args) {
