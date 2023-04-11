@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.logica.LacosDeRepticao;
+package academy.devdojo.maratonajava.logica.LacosDeRepticao.Whiles;
 
 public class ExercicioWhile {
     public static void main(String[] args) {

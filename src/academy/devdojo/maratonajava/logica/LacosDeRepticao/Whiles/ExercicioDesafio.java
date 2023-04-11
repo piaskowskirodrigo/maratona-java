@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.logica.LacosDeRepticao;
+package academy.devdojo.maratonajava.logica.LacosDeRepticao.Whiles;
 /*Apresentar ao usuário uma tela solicitando um login e depois uma senha, o usuário e
 senha corretos devem estar armazenados em constantes no seu programa. Se o
 usuário acertar o usuário e a senha exibir a mensagem ACESSO CONCEDIDO, caso

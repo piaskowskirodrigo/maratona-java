@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.logica.LacosDeRepticao;
+package academy.devdojo.maratonajava.logica.LacosDeRepticao.Whiles;
 
 import java.util.Scanner;
 
