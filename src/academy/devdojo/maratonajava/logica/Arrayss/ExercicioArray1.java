@@ -7,6 +7,7 @@ public class ExercicioArray1 {
         notas[1] = 8.0;
         notas[2] = 7.0;
         notas[3] = 3;
+        System.out.println("Tamanho do array" +notas.length);
         for (int i = 0; i < 4; i++) { /*O numero 4 e o tamanho do array, poderia ser tambem <= 3*/
             System.out.println(notas[i]);
 
