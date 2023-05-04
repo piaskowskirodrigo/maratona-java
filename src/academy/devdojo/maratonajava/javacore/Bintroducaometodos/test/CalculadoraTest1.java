@@ -8,5 +8,8 @@ public class CalculadoraTest1 {
         calculadora.somaDoisNumeros();
         System.out.println("Finalizando CalculadoraTest1");
 
+        calculadora.subtraiDoisNumeros();
+        System.out.println("SLA SO QUIZ CHAMAR O METODO");
+
     }
 }
